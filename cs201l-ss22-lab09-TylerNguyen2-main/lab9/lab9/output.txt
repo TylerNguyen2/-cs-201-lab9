@@ -1,0 +1,29 @@
+Beginning processing with regular Bag.
+Adding 15. Add Successful.
+Adding 22. Add Successful.
+Adding 3. Add Successful.
+Adding 47. Add Successful.
+Removing item,  got 47
+Adding 12. Add Successful.
+Adding 12. Add Successful.
+Deleting 15. Deleting Successful.
+Adding 6. Add Successful.
+Adding 98. Add Successful.
+Deleting all instances of 12. Deleting Successful.
+Removing item,  got 6
+Removing item,  got 3
+Removing item,  got 22
+Adding 15. Add Successful.
+Adding 22. Add Successful.
+Adding 3. Add Successful.
+Removing item,  got 3
+Adding 5. Add Successful.
+Deleting 102. Deleting Not Successful.
+Deleting all instances of 152. Deleting Not Successful.
+Adding 6. Add Successful.
+Removing item,  got 6
+Removing item,  got 5
+Removing item,  got 22
+Removing item,  got 15
+Removing item,  got 98
+At end of processing, the bag still has 0 items
